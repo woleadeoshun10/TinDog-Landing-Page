@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🐶 TinDog Landing Page
 
 TinDog is a fun and responsive **dog dating website landing page**, inspired by Tinder — but made for dogs!  
